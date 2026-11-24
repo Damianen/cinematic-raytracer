@@ -28,6 +28,7 @@
           glm # vectors and matrices
           openexr # multi-layer HDR output
           fmt # logging and formatting
+          zlib
 
           # viewer
           tev # HDR/EXR viewer, lets you flip through render layers
